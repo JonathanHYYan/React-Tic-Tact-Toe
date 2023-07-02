@@ -6,7 +6,7 @@ Basic Tic Tac Toe program with the following features:\
 Alternating players\
 Win conditions\
 Tie Condition\
-Reset Board\
+Reset Board
 
 Uses react hooks and very basic css styling.
 
